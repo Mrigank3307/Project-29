@@ -122,7 +122,7 @@ function draw() {
 
   //console.log (box.body);
 
- text ("Please wait till the birds' position goes outside the canvas" , 150,200);
+ text ("Please sling so that the birds' position goes outside the canvas" , 150,200);
  
 }
 
